@@ -1,0 +1,9 @@
+com\tiagoperroni\main\services\ProductService.class
+com\tiagoperroni\main\exceptionhandler\MessageExceptionHandler.class
+com\tiagoperroni\main\entity\Product.class
+com\tiagoperroni\main\MainApplication.class
+com\tiagoperroni\main\controller\ProductController.class
+com\tiagoperroni\main\controller\utils\SwaggerConfig.class
+com\tiagoperroni\main\exceptionhandler\ProductControllerAdvice.class
+com\tiagoperroni\main\exceptionhandler\ProductNotFoundException.class
+com\tiagoperroni\main\repository\ProductRepository.class
